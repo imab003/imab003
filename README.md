@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imab003
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Java 
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently Agile And Scrum
 - 💞️ I’m looking to collaborate on development projects
 - 📫 How to reach me imab0003@gmail.com
 
