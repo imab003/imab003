@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imab003
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently Agile And Scrum
+- 🌱 I’m currently learning Agile And Scrum
 - 💞️ I’m looking to collaborate on development projects
 - 📫 How to reach me imab0003@gmail.com
 
